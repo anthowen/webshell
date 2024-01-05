@@ -11,19 +11,15 @@
   "username": "visitor",
   "hostname": "webshell",
   "password": "050823",
-  "repoLink": "https://github.com/nasan016/webshell",
+  "repoLink": "https://github.com/anthowen/webshell",
   "social": {
-    "email": "your@email.com",
-    "github": "yourgithub",
+    "email": "hi@anthowen.dev",
+    "github": "anthowen",
     "linkedin": "you"
   },
   "aboutGreeting": "Hi stranger. Welcome to WebShell.",
   "projects": [
-    [
-      "GofeR",
-      "Vue.js reactivity in Go.",
-      "https://github.com/nasan016/gofer"
-    ],
+    ["GofeR", "Vue.js reactivity in Go.", "https://github.com/nasan016/gofer"],
     [
       "WebShell",
       "Terminal styled website.",
